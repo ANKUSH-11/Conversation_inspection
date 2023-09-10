@@ -1,4 +1,4 @@
-# Conversation_inspection
+![07](https://github.com/ANKUSH-11/Conversation_inspection/assets/84002890/077423f3-a6cc-482b-b06a-44c1c5e094bb)# Conversation_inspection
 Certainly! Below is a template for a README file for a project named "Converation_inspection." This template includes placeholders for various sections, which you can fill in with the actual information about your project.
 
 ```markdown
@@ -48,14 +48,17 @@ streamlit run app/app.py
 ```
 
 ## Screenshots
-![o1](https://github.com/ANKUSH-11/Whatsapp-chat-Analyzer/assets/84002890/4de660db-bacb-4e26-9613-1d8efd44659c)
-![o2](https://github.com/ANKUSH-11/Whatsapp-chat-Analyzer/assets/84002890/3727a926-28e7-4664-a4f7-1d0cc7a4a400)
-![o3](https://github.com/ANKUSH-11/Whatsapp-chat-Analyzer/assets/84002890/0b8e0f1b-2b78-49b1-a404-b0d9e5e9ffe2)
-![04](https://github.com/ANKUSH-11/Whatsapp-chat-Analyzer/assets/84002890/c7c48776-9684-45d1-8edf-69fb7a808070)
-![05](https://github.com/ANKUSH-11/Whatsapp-chat-Analyzer/assets/84002890/0aea13e1-a98c-4efc-b53e-c03054f5462f)
-![06](https://github.com/ANKUSH-11/Whatsapp-chat-Analyzer/assets/84002890/6759421d-4a83-45e3-b490-55207be4d3f9)
-![07](https://github.com/ANKUSH-11/Whatsapp-chat-Analyzer/assets/84002890/89d80090-677a-461e-903e-ebad3c7812a7)
-![08](https://github.com/ANKUSH-11/Whatsapp-chat-Analyzer/assets/84002890/1e2cbde5-1f06-4362-88ba-e5427b8642e9)
+![o1](https://github.com/ANKUSH-11/Conversation_inspection/assets/84002890/7715af29-979e-48e7-8189-c6bbe5b3764b)
+![o2](https://github.com/ANKUSH-11/Conversation_inspection/assets/84002890/42a950be-9dbb-45fe-a195-fe96efff752e)
+![o3](https://github.com/ANKUSH-11/Conversation_inspection/assets/84002890/2bd1d83d-bb0d-4791-acdb-d63f3610577a)
+![04](https://github.com/ANKUSH-11/Conversation_inspection/assets/84002890/6f1f7bc7-1d21-45a7-a9b6-ae90701fc1cc)
+![05](https://github.com/ANKUSH-11/Conversation_inspection/assets/84002890/d10012af-d8b8-4b5e-9130-2d315194c11e)
+![06](https://github.com/ANKUSH-11/Conversation_inspection/assets/84002890/d16e981f-d5f5-4cab-bcc9-8ea581032001)
+![07](https://github.com/ANKUSH-11/Conversation_inspection/assets/84002890/00172a92-2bc0-40ef-b535-c493e8f60100)
+![08](https://github.com/ANKUSH-11/Conversation_inspection/assets/84002890/58b33bfe-3360-4a09-b024-3cc0a4d9a7c2)
+
+
+
 
 
 

@@ -1,4 +1,4 @@
-![07](https://github.com/ANKUSH-11/Conversation_inspection/assets/84002890/077423f3-a6cc-482b-b06a-44c1c5e094bb)# Conversation_inspection
+# Conversation_inspection
 Certainly! Below is a template for a README file for a project named "Converation_inspection." This template includes placeholders for various sections, which you can fill in with the actual information about your project.
 
 ```markdown
@@ -48,15 +48,13 @@ streamlit run app/app.py
 ```
 
 ## Screenshots
-![o1](https://github.com/ANKUSH-11/Conversation_inspection/assets/84002890/7715af29-979e-48e7-8189-c6bbe5b3764b)
-![o2](https://github.com/ANKUSH-11/Conversation_inspection/assets/84002890/42a950be-9dbb-45fe-a195-fe96efff752e)
-![o3](https://github.com/ANKUSH-11/Conversation_inspection/assets/84002890/2bd1d83d-bb0d-4791-acdb-d63f3610577a)
-![04](https://github.com/ANKUSH-11/Conversation_inspection/assets/84002890/6f1f7bc7-1d21-45a7-a9b6-ae90701fc1cc)
-![05](https://github.com/ANKUSH-11/Conversation_inspection/assets/84002890/d10012af-d8b8-4b5e-9130-2d315194c11e)
-![06](https://github.com/ANKUSH-11/Conversation_inspection/assets/84002890/d16e981f-d5f5-4cab-bcc9-8ea581032001)
-![07](https://github.com/ANKUSH-11/Conversation_inspection/assets/84002890/00172a92-2bc0-40ef-b535-c493e8f60100)
-![08](https://github.com/ANKUSH-11/Conversation_inspection/assets/84002890/58b33bfe-3360-4a09-b024-3cc0a4d9a7c2)
-
+![o1](https://github.com/ANKUSH-11/Conversation_inspection/assets/84002890/b370c5d4-ee59-4c0b-a8a9-90a282a22b5d)
+![o2](https://github.com/ANKUSH-11/Conversation_inspection/assets/84002890/a9955235-bdfc-41e7-9132-6d8434069bec)
+![o3](https://github.com/ANKUSH-11/Conversation_inspection/assets/84002890/33f27917-cb0c-4223-ba3c-9749329c994f)
+![04](https://github.com/ANKUSH-11/Conversation_inspection/assets/84002890/37f3be32-75c8-47c0-b7c6-89465cf14b94)
+![05](https://github.com/ANKUSH-11/Conversation_inspection/assets/84002890/05f58835-7f5e-47ec-8178-8e34d3a6316c)
+![06](https://github.com/ANKUSH-11/Conversation_inspection/assets/84002890/e3ad7dcd-e9a9-4d95-b864-f272fb1e742d)
+![07](https://github.com/ANKUSH-11/Conversation_inspection/assets/84002890/5f09da3a-7193-451a-a948-0aee419b3ba8)
 
 
 
